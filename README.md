@@ -1,3 +1,3 @@
 # ARFoundationMeisaiDemo
 
-私はMEISAIアプリを作っています。そのエフェクツの一つのソースコードです。
+私はMEISAIアプリを作っています。そのエフェクツの一つのソースコードです。ARFoundationSamplesを基にしています。
