@@ -7,7 +7,7 @@ I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This
 
 ![sample](img.gif)
 
-### 使用環境
+### 開発環境
 
 * Unity 2019.2.1f
 * https://github.com/Unity-Technologies/arfoundation-samples
