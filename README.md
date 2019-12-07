@@ -1,4 +1,4 @@
-# ARFoundationMeisaiDemo
+# MEISAI Demo
 
 I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This is the one of the effects.
 
