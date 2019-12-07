@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1c56ea7c3344263a0c3aff49a02079, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _shader: {fileID: 4800000, guid: 6c88736e316204bed9f063eaad32637a, type: 3}
+  _shader: {fileID: 4800000, guid: b7e960e12a73e44179534231adfe1b23, type: 3}
   occlusionManager: {fileID: 1335839536}
 --- !u!1 &427002218
 GameObject:
