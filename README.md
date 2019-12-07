@@ -2,7 +2,7 @@
 
 I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This is the one of the effects.
 
-私は[MEISAIアプリ](https://kitasenjudesign.com/meisai/)というARフィルタアプリを作っています。そのエフェクトの１つです。
+私は[MEISAI](https://kitasenjudesign.com/meisai/)というARフィルタアプリを作っています。そのエフェクトの１つです。
 
 
 ![sample](img.gif)
