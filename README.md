@@ -12,6 +12,7 @@ I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This
 * Unity 2019.2.1f
 * AR Foundation https://github.com/Unity-Technologies/arfoundation-samples
 * Noise Shader https://github.com/keijiro/NoiseShader
+* iPhone XS
 
 ### Licence
 
