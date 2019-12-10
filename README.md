@@ -1,6 +1,6 @@
 # MEISAI Demo
 
-I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This repository is the one of the effects. Please try it.
+I am making an AR Filter app [MEISAI](https://kitasenjudesign.com/meisai/). This repository is the one of the effects. Please check [Assets/MEISAI/](./arfoundation-samples/Assets/MEISAI/)
 
 私は[MEISAI](https://kitasenjudesign.com/meisai/)というARフィルタアプリを作っています。これは、そのエフェクトの１つです。使ってみてください。[→解説](https://qiita.com/kitasenjudesign/items/2cbe031f40877067b58d)
 
